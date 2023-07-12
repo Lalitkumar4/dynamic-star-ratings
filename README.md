@@ -7,3 +7,5 @@ This is a simple mini project that allows users to rate different 4K televisions
 - View the ratings for each brand displayed using star icons.
 - Ratings are automatically updated and displayed in real-time.
 - Input validation to ensure ratings are within the range of 1 to 5.
+
+You can see a live demo [here](https://lalitkumar4.github.io/dynamic-star-ratings/).
